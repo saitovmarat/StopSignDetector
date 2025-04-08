@@ -1,3 +1,7 @@
-dataset/ds
-dataset/LICENSE.md
-dataset/meta.json
+dataset/*
+
+venv
+runs
+ds
+yolov8n.pt
+
