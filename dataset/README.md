@@ -1,0 +1,1 @@
+С сайта https://datasetninja.com/road-sign-detection#download скачиваем .zip файл и извлекаем в эту папку

@@ -1,7 +1,8 @@
 dataset/*
+!dataset/README.md
 
+data
 venv
 runs
-ds
 yolov8n.pt
 
